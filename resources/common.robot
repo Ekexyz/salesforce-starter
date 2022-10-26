@@ -3,6 +3,7 @@ Library                   QForce
 Library                   String
 Library                   DateTime
 Library                   OperatingSystem
+Library                   QNow
 
 *** Variables ***
 # IMPORTANT: Please read the readme.txt to understand needed variables and how to handle them!!
